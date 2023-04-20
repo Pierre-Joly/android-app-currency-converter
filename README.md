@@ -2,7 +2,7 @@
 
 This repository contains the source code for a simple currency converter app built using Android Studio. It was made for a school project.
 
-<div style="display: flex;justify-content: space-between;width: 100%;">
+<div style="display: flex; justify-content: space-evenly; width: 100vw;">
   <img src="conversion.png" style="width: 30vw">
   <img src="currency.png" style="width: 30vw">
 </div>
