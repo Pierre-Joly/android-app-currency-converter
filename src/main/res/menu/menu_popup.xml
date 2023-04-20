@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="USD"
+        android:id="@+id/us"
+        android:icon="@drawable/flag_us"
+        app:showAsAction="always"
+        />
+    <item android:title="EUR"
+        android:id="@+id/e"
+        android:icon="@drawable/flag_e"
+        app:showAsAction="always"
+        />
+    <item android:title="JPY"
+        android:id="@+id/jap"
+        android:icon="@drawable/flag_jap"
+        app:showAsAction="always"
+        />
+    <item android:title="GBP"
+        android:id="@+id/uk"
+        android:icon="@drawable/flag_uk"
+        app:showAsAction="always"
+        />
+    <item android:title="CNY"
+        android:id="@+id/china"
+        android:icon="@drawable/flag_china"
+        app:showAsAction="always"
+        />
+
+    <item android:title="AUD"
+        android:id="@+id/aus"
+        android:icon="@drawable/flag_aus"
+        app:showAsAction="always"
+        />
+    <item android:title="CAD"
+        android:id="@+id/canada"
+        android:icon="@drawable/flag_canada"
+        app:showAsAction="always"
+        />
+    <item android:title="CHF"
+        android:id="@+id/suiss"
+        android:icon="@drawable/flag_suiss"
+        app:showAsAction="always"
+        />
+    <item android:title="HKD"
+        android:id="@+id/hk"
+        android:icon="@drawable/flasg_hk"
+        app:showAsAction="always"
+        />
+    <item android:title="SGD"
+        android:id="@+id/sing"
+        android:icon="@drawable/flag_sing"
+        app:showAsAction="always"
+        />
+
+</menu>
