@@ -40,7 +40,3 @@ git clone https://github.com/yourusername/CurrencyConverter.git
 ## Built With
 
 - [Android Studio](https://developer.android.com/studio) - The official IDE for Android development
-
-## License
-
-This project is licensed under the MIT License.
